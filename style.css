@@ -282,3 +282,102 @@ top: 16px;
     line-height: 24px;
     
 }
+
+/* fethurd section start */
+
+
+.main-container{
+    position: relative;
+    top: 40px;
+}
+
+
+.container-area{
+position: relative;
+left: 170px;
+
+}
+
+.fechure-title{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+
+.fechured-cards {
+    position: relative;
+    top: 70px;
+    gap: 140px;
+    right: 30px;
+   
+}
+.fechured-cards .card-1{
+border-radius: 30px;
+}
+.fechured-cards .card p{
+    line-height: 24px;
+}
+.card-content{
+    /* position: relative;
+    top: 24px;
+    right: 24px; */
+    padding: 24px;
+
+}
+
+.card-content  p{
+    padding-top: 12px;
+    
+}
+
+.card-content .time{
+    position: relative;
+    top: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #00FF88;
+}
+/* host section start */
+.host-container{
+    position: relative;
+    top: 200px;
+    left: 220px;
+}
+.alex-kumar{
+    position: relative;
+    right: 60px;
+    top: 60px;
+    border-radius: 60px;
+}
+
+.alex-infarmi h2{
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+
+
+.alex-infarmi p{
+    position: relative;
+    top: 16px;
+    
+    
+    
+}
+
+.alex-img{
+    position: relative;
+    top: 30px;
+    width: 300px;
+    
+} 
+
+
+
+.icons-kumar{
+    position: relative;
+    top: 40px;
+    gap: 10px;
+    
+}
